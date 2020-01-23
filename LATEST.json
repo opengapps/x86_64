@@ -1,6 +1,6 @@
 {
   "arch": "x86_64",
-  "date": "20200121",
+  "date": "20200123",
   "assets": [
     { "api": "5.0", "variants": ["pico", "nano"]},
     { "api": "5.1", "variants": ["pico", "nano", "stock", "tvstock"]},
@@ -9,6 +9,7 @@
     { "api": "7.1", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "tvstock"]},
     { "api": "8.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "tvstock"]},
     { "api": "8.1", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "tvstock"]},
-    { "api": "9.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "tvstock"]}
+    { "api": "9.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "tvstock"]},
+    { "api": "10.0", "variants": ["pico", "nano"]}
   ]
 }
