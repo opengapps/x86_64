@@ -1,6 +1,6 @@
 {
   "arch": "x86_64",
-  "date": "20200911",
+  "date": "20200912",
   "assets": [
     { "api": "5.0", "variants": ["pico", "nano"]},
     { "api": "5.1", "variants": ["pico", "nano", "stock", "tvmini", "tvstock"]},
